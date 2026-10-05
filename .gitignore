@@ -1,0 +1,21 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Java / Maven / Backend
+backend/target/
+backend/*.log
+backend/hs_err_pid*.log
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.tmp
+*.log
+
+# Environment variables
+.env
+.env.local
